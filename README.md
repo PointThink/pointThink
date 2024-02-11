@@ -2,7 +2,9 @@ I like cats
 
 Currently working on the CatWare engine and a top secret game project
 
-Favorite languages are C, C++ and C#
+Favorite languages are C++ and C#
+
+I barely know how to use git and I fuck things up on a regular basis
 
 <img src="https://raw.githubusercontent.com/pointThink/pointThink/main/actsilly.jpg">
 
