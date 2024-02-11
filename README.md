@@ -1,5 +1,7 @@
 I like cats
+
 Currently working on the CatWare engine and a top secret game project
+
 Favorite languages are C, C++ and C#
 
 <img src="https://raw.githubusercontent.com/pointThink/pointThink/main/actsilly.jpg">
