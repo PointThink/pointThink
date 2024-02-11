@@ -1,4 +1,8 @@
-### Hi there 👋
+I like cats
+Currently working on the CatWare engine and a top secret game project
+Favorite languages are C, C++ and C#
+
+<img src="https://raw.githubusercontent.com/pointThink/pointThink/main/actsilly.jpg">
 
 <!--
 **pointThink/pointThink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
