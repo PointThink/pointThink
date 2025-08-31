@@ -6,7 +6,6 @@
 |_|   \___/|_|_| |_|\__||_| |_| |_|_|_| |_|_|\_\
 ```
 Hello. I make stuff.
-I'm currently working on DeltaChan (a 4chan style imageboard) and other top secret projects.
 
 <!--
 **pointThink/pointThink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
